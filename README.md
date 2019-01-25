@@ -6,4 +6,4 @@ Link to access his website created by Ari Valenzuela (A01635584):
 https://santiagoyeomans.github.io/
 
 
-![alt text](yeomanswebsite.png "Logo Title Text 1")
+![screenshot of the website](https://github.com/Arix23/InteractiveDesignActivities/blob/master/yeomanswebsite.PNG "Landing Page for SantiagoYeomans")
