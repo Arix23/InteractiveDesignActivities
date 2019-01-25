@@ -7,3 +7,6 @@ https://santiagoyeomans.github.io/
 
 
 ![screenshot of the website](https://github.com/Arix23/InteractiveDesignActivities/blob/master/yeomanswebsite.PNG "Landing Page for SantiagoYeomans")
+
+# Uploading the website to twitter:
+![screenshot of the website](https://github.com/Arix23/InteractiveDesignActivities/blob/master/updatesocialmedia.PNG "Landing Page for SantiagoYeomans")
