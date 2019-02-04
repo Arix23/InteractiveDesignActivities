@@ -1,0 +1,59 @@
+.navbar {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size: 1.2em;
+}
+.nav-link {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#computerscience {
+	width: 70vw;
+	height: 40vh;
+	margin: 20px 20px 20px 0px;
+}
+.container {
+	display: flex;
+}
+p {
+	margin-top: 20px;
+	width: 40vw;
+}
+
+.profile {
+	border-radius: 75px;
+	margin-top: 60px;
+}
+footer {
+	background-color: black;
+	display: flex;
+}
+.footerimg {
+	padding: 20px;
+	height: 75px;
+}
+.right {
+	margin-left: auto;
+}
+.quote {
+	font-size: 1.8em;
+	display: flex;
+	margin: auto;
+	text-align: center;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	font-family: Georgia;
+}
+.interactive {
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+	margin-bottom: 60px;
+	align-items: center;
+	align-content: center;
+}
+.profile {
+	width: 200px;
+	height: 200px;
+}
