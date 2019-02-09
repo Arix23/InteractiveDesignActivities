@@ -9,7 +9,6 @@
 }
 #computerscience {
 	width: 70vw;
-	height: 40vh;
 	margin: 20px 20px 20px 0px;
 }
 .container {
@@ -54,6 +53,9 @@ footer {
 	align-content: center;
 }
 .profile {
-	width: 200px;
+	width: 13vw;
 	height: 200px;
+}
+.trophies {
+	width: 15vw;
 }
