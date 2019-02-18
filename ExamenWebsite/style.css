@@ -1,0 +1,77 @@
+.navbar-nav > li {
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+.navbar-nav {
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+body {
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: repeat-y;
+	margin-bottom: 20px;
+}
+
+h1 {
+	font-size: 5em;
+}
+
+.container {
+	padding-top: 20px;
+}
+
+.introduction {
+	font-size: 1.6em;
+}
+
+.frontback {
+	font-size: 1.9em;
+	font-weight: bold;
+}
+
+.websitecreation {
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+.interview {
+	padding: 40px;
+}
+
+.imgxd:hover {
+	transition: 1s ease;
+	transform: scale(1.1);
+}
+
+.imgxd {
+	height: 160px;
+	width: auto;
+}
+
+.finaldesign {
+	height: 900px;
+	width: auto;
+}
+
+
+.imgxr {
+	width: 100%;
+	height: auto;
+}
+
+.imgxr:hover {
+	transition: 1s ease;
+	transform: scale(1.6);
+}
+
+.question {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.answer {
+	font-size: 1.2em;
+}
